@@ -2,6 +2,8 @@
 
 # Requirements
 tensorflow >= 2.0
+
+
 CUDA 10.1
 
 #Remarks
